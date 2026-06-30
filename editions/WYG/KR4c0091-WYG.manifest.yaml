@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR4c0091/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4c0091/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新彫注胡曾詠史詩
+  date: '2015-09-12 01:20:36.714362'
+  source:
+    repository: kanripo
+    path: KR4c0091
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4c0091_000-WYG.yaml, hash: 'sha256:22644234027c8580715aff2a66d7499584a1e3781f671293887ad1ea9bf3c2ac'}
+  - {seq: 1, filename: KR4c0091_001-WYG.yaml, hash: 'sha256:cf79c733da3539b403758241fcc2807278f6acaedde8ba0ae5374659009d7bef'}
+  - {seq: 2, filename: KR4c0091_002-WYG.yaml, hash: 'sha256:bd9f65c8493863322b94c8a78f2570fea90b34024e6defe90c1e5097154339da'}
+  - {seq: 3, filename: KR4c0091_003-WYG.yaml, hash: 'sha256:45d080bee6c7246eeb8d2787690a2d972ca44124263cd4bc36f483effb0ccfdf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4c0091_000-WYG.markers.yaml, hash: 'sha256:a9ec5b07553fbd36cc3ae63bac344462b9d2491973f9951bd0276d975eb0b0dd'}
+  - {seq: 1, role: markers, filename: assets/KR4c0091_001-WYG.markers.yaml, hash: 'sha256:f7264dbdca240dbc56be08f413e107df83c65a282652968b764d2dcc3f316354'}
+  - {seq: 2, role: markers, filename: assets/KR4c0091_002-WYG.markers.yaml, hash: 'sha256:a2c827f35238d18b99da17470d0c431c408f137a483dc44646d03f5da674cfdc'}
+  - {seq: 3, role: markers, filename: assets/KR4c0091_003-WYG.markers.yaml, hash: 'sha256:ee5f30347b74d92637d04dfb31045b1a57050dfa96add3dbd42915b7a034090d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4c0091_SBCK_003-14a
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4c0091_SBCK_003-14a
+    span:
+    - body
+    - 0
+    - 4
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:10b924ef6b885127e57c339716421aeafdd04bdb52e461cf433b98704c853576

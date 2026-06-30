@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0091/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 咏
+  hash: sha256:29f793b07302a6315def0333a5c75ebdca226cda5393e07631aff204a3356896
+metadata:
+  title: 新彫注胡曾詠史詩
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:20:36.714362'
+  source:
+    repository: kanripo
+    path: KR4c0091/KR4c0091_002.txt
+hash: sha256:bd9f65c8493863322b94c8a78f2570fea90b34024e6defe90c1e5097154339da
